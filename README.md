@@ -1,8 +1,8 @@
 # 🥋 Analyse Économique de la Lutte Sénégalaise (Lamb) — PySpark
 
 > Projet Master 1 BIDABI — Université Paris 13  
-> Cours : Traitement de données massives avec PySpark  
-> Groupe : Palla · Mouhammed · Havar
+> Cours : PySpark  
+> Groupe : Palla · Mouhammad · Havar
 
 ---
 
