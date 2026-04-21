@@ -31,7 +31,7 @@ L'ensemble du pipeline est implémenté avec **Apache PySpark**, exécuté sur *
 ├── README.md
 ├── data/
 │   ├── lamb.csv                          # Dataset brut (synthétique)
-│   └── lamb_clean.parquet/               # Dataset nettoyé (généré par Partie 1)
+│   └── lamb_clean.csv                    # Dataset nettoyé (généré par Partie 1)
 ├── notebooks/
 │   ├── Partie1_DataEngineering_Palla.ipynb
 │   ├── Partie2_EDA_Mouhammed.ipynb
