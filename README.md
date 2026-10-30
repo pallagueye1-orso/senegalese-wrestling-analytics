@@ -1,9 +1,5 @@
 # 🥋 Analyse Économique de la Lutte Sénégalaise (Lamb) — PySpark
 
-> Projet Master 1 BIDABI — Université Paris 13  
-> Cours : PySpark  
-> Groupe : Palla · Mouhammad · Havar
-
 ---
 
 ## 📌 Contexte
@@ -62,7 +58,7 @@ L'ensemble du pipeline est implémenté avec **Apache PySpark**, exécuté sur *
 
 ---
 
-## 🔧 Partie 1 — Data Engineering (Palla)
+## 🔧 Partie 1 — Data Engineering
 
 ### Ce qui est fait
 
@@ -131,17 +127,5 @@ Aucune autre installation n'est requise.
 
 ---
 
-## 👨‍🏫 Contexte académique
-
-Ce projet répond aux consignes suivantes :
-
-- [x] Ingestion et préparation (schéma explicite, nettoyage, documentation)
-- [x] Analyse exploratoire (CA, top lutteurs, évolution temporelle)
-- [x] Transformations avancées (jointures, agrégations, window functions)
-- [x] Optimisation (cache, partitionnement, explain plan)
-- [ ] Machine Learning (bonus)
-- [x] Visualisation (≥ 3 graphiques)
-
----
 
 *Dataset synthétique construit pour reproduire de manière réaliste l'environnement économique de la lutte sénégalaise.*
